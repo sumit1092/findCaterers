@@ -1,3 +1,9 @@
+Live Demo
+
+Frontend: https://find-caterers-org.vercel.app/caterers
+
+Backend API: https://findcaterers-2.onrender.com/api/caterers
+
 # Find Catering Backend
 
 Professional backend setup for a catering search platform using Node.js, Express, MongoDB Atlas, and Mongoose with modern ES6 module syntax.
