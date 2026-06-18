@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  color: #111827;
+  background:
+    radial-gradient(circle at top right, rgba(249, 115, 22, 0.12), transparent 34rem),
+    linear-gradient(180deg, #f8fafc 0%, #ffffff 42%, #fff7ed 100%);
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+.food-card-image {
+  background-image:
+    linear-gradient(135deg, rgba(17, 24, 39, 0.08), rgba(249, 115, 22, 0.2)),
+    var(--card-image);
+}
