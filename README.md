@@ -1,16 +1,14 @@
-# Catering Search Backend
+# Find Catering Backend
 
 Professional backend setup for a catering search platform using Node.js, Express, MongoDB Atlas, and Mongoose with modern ES6 module syntax.
 
-## How many APIs are required?
-
-As per your assignment, you need **3 required APIs**:
+As per assignment, **3 required APIs**:
 
 1. `GET /api/caterers`
 2. `GET /api/caterers/:id`
 3. `POST /api/caterers`
 
-You do **not** need separate APIs for search and price filtering. Those can be handled with query parameters on `GET /api/caterers`.
+Do **not** need separate APIs for search and price filtering. Those can be handled with query parameters on `GET /api/caterers`.
 
 Example:
 
