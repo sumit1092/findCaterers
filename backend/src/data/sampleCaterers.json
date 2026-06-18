@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Mumbai Catering",
+    "location": "Mumbai",
+    "pricePerPlate": 450,
+    "cuisines": ["North Indian", "Chinese"],
+    "rating": 4.6
+  },
+  {
+    "name": "Delhi Caterers",
+    "location": "Delhi",
+    "pricePerPlate": 550,
+    "cuisines": ["Mughlai", "Punjabi", "Continental"],
+    "rating": 4.8
+  },
+  {
+    "name": "Bengaluru Catering Services",
+    "location": "Bengaluru",
+    "pricePerPlate": 490,
+    "cuisines": ["South Indian", "Italian"],
+    "rating": 4.3
+  },
+  {
+    "name": "Hyderabad Catering",
+    "location": "Hyderabad",
+    "pricePerPlate": 390,
+    "cuisines": ["Biryani", "North Indian"],
+    "rating": 4.5
+  },
+  {
+    "name": "Pune Caterers",
+    "location": "Pune",
+    "pricePerPlate": 550,
+    "cuisines": ["Maharashtrian", "Punjabi", "Chinese"],
+    "rating": 4.7
+  }
+]
