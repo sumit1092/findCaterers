@@ -1,29 +1,55 @@
 const Logo = () => {
-    return (
-        <span className="grid h-11 w-11 shrink-0 place-items-center rounded-2xl border border-orange-100 bg-orange-50 text-brand-orange">
-            <svg
-              viewBox="0 0 48 48"
-              width={30}
-              height={30}
-              className="h-[30px] w-[30px] shrink-0"
-              fill="none"
-              aria-hidden="true"
-            >
-              <path
-                d="M8 32h32M11 29c1-11 7-18 17-18s16 7 17 18"
-                stroke="currentColor"
-                strokeWidth="3"
-                strokeLinecap="round"
-              />
-              <path
-                d="M24 7V4M21 4h6M14 34h20"
-                stroke="currentColor"
-                strokeWidth="3"
-                strokeLinecap="round"
-              />
-            </svg>
-          </span>
-    )
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 64 64"
+      width="40"
+      height="40"
+      fill="none"
+    >
+      <circle
+        cx="32"
+        cy="34"
+        r="20"
+        stroke="orange"
+        stroke-width="3"
+      />
+
+      <circle
+        cx="32"
+        cy="34"
+        r="12"
+        stroke="currentColor"
+        stroke-width="2"
+      />
+
+      <path
+        d="M24 16C24 12 28 12 28 8"
+        stroke="currentColor"
+        stroke-width="2.5"
+        stroke-linecap="round"
+      />
+      <path
+        d="M32 16C32 12 36 12 36 8"
+        stroke="currentColor"
+        stroke-width="2.5"
+        stroke-linecap="round"
+      />
+      <path
+        d="M40 16C40 12 44 12 44 8"
+        stroke="currentColor"
+        stroke-width="2.5"
+        stroke-linecap="round"
+      />
+
+      <path
+        d="M18 52H46"
+        stroke="currentColor"
+        stroke-width="3"
+        stroke-linecap="round"
+      />
+    </svg>
+  )
 }
 
 export default Logo
