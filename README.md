@@ -4,6 +4,23 @@ Frontend: https://find-caterers-org.vercel.app/caterers
 
 Backend API: https://findcaterers-2.onrender.com/api/caterers
 
+Tech Stack
+Frontend
+Next.js 
+React
+TypeScript
+Tailwind CSS
+Axios
+Backend
+Node.js
+Express.js
+MongoDB Atlas
+Tools & Deployment
+Git & GitHub
+Vercel (Frontend Deployment)
+Render (Backend Deployment)
+Postman (API Testing)
+
 # Find Catering Backend
 
 Professional backend setup for a catering search platform using Node.js, Express, MongoDB Atlas, and Mongoose with modern ES6 module syntax.
