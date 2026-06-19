@@ -5,20 +5,35 @@ Frontend: https://find-caterers-org.vercel.app/caterers
 Backend API: https://findcaterers-2.onrender.com/api/caterers
 
 Tech Stack
+
 Frontend
-Next.js 
+
+Next.js
+
 React
+
 TypeScript
+
 Tailwind CSS
+
 Axios
+
 Backend
+
 Node.js
+
 Express.js
+
 MongoDB Atlas
+
 Tools & Deployment
+
 Git & GitHub
+
 Vercel (Frontend Deployment)
+
 Render (Backend Deployment)
+
 Postman (API Testing)
 
 # Find Catering Backend
